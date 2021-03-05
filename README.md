@@ -1,6 +1,13 @@
-# User CRUD
+# Assignment
   Design a user crud application with swagger. 
-  
+
+## Task Done
+1. Create a login api with auth 
+2. Create a registration api (first name, last name, email, password, mobile no, address) (Please use hash and salt for password) 
+3. List api for all users with token and pagination 
+4. Update user details api with token 
+5. Search api on (first name, last name, email,  mobile no) single key with token and pagination 
+
 ### Software Requirement :
 1. Nodejs(v12.18.4)
 2. Mongodb
